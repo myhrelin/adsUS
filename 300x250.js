@@ -5,4 +5,4 @@ atOptions = {
         'width' : 300,
         'params' : {}
     };
-    document.write('<scr' + 'ipt type="text/javascript" src="//www.topcreativeformat.com/fdf3be4e6f42068d3af6cb8898a9d79c/invoke.js"></scr' + 'ipt>');
+    document.write('<scr' + 'ipt type="text/javascript" src="//www.highperformanceformat.com/fdf3be4e6f42068d3af6cb8898a9d79c/invoke.js"></scr' + 'ipt>');
